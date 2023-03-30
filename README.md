@@ -21,9 +21,9 @@ This program was created as a part of an exam project at Hochschule Bremerhaven 
 
 The code in this repository was created using various resources, including the following two Stack Overflow threads:
 
-+ Color Interpolation: This thread provided information on how to interpolate between two colors based on a percentage value, which was adapted for use in the program.
++ [Color Interpolation:](https://stackoverflow.com/questions/1855884/determine-color-based-on-percentage-in-javascript) This thread provided information on how to interpolate between two colors based on a percentage value, which was adapted for use in the program.
 
-+ Interpolate two hex-colors: This thread provided information on how to interpolate between two hexadecimal color values, which was also adapted for use in the program.
++ [Interpolate two hex-colors:](https://stackoverflow.com/questions/12556415/interpolate-between-two-hex-colors) This thread provided information on how to interpolate between two hexadecimal color values, which was also adapted for use in the program.
 
 These resources were used to enhance the functionality of the program and ensure best practices in its development.
 
