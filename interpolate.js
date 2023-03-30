@@ -1,6 +1,6 @@
 /*
  * this program interpolates between two colors based on the direction of the device
- * using the Device Orientation API. it is an exam project created for the Programming 3 module
+ * using the Device Orientation API. it is a Part of an exam project created for the Programming 3 module
  * at Hochschule Bremerhaven.
  *
  * version date: 31.01.2023
