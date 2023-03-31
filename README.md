@@ -13,16 +13,20 @@ The program calculates a value between 0 and 1 based on the orientation of the d
 ## Usage 💻
 
 To use this program, simply include the JavaScript file in your HTML document and load it on a device that supports the Device Orientation API. The program will automatically listen for changes in the device orientation and interpolate the background color accordingly.
-
 ````
 <script src="interpolateColors.js"></script>
 ````
+Additionally, the program uses the Device Orientation API to track the orientation of the device. Make sure that your device supports this API, and that it is enabled in your browser. If the API is not supported or not enabled, the program will not work as expected.
 
-## Author
+## Configuration 🔧
+
+By default, the program uses two colors, red (#ff0000) and blue (#0000ff), as the starting colors for interpolation. If you would like to change these colors, you can modify the colorA and colorB constants in the code.
+
+## Author 📚👨‍💻
 
 This program was created as a part of an exam project at Hochschule Bremerhaven by Jacob Benjamin Menge.
 
-## Resources
+## Resources 🔍💻
 
 The code in this repository was created using various resources, including the following two Stack Overflow threads:
 
@@ -32,6 +36,6 @@ The code in this repository was created using various resources, including the f
 
 These resources were used to enhance the functionality of the program and ensure best practices in its development.
 
-## License
+## License 🔒
 
 This program is licensed under the MIT License.
